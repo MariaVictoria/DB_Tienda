@@ -1,0 +1,10 @@
+modificar la base. 
+CLiente- pedido
+
+descripcion del pediod. 
+estado del pedido
+precio del pedido
+
+
+la conslta de productos debe traer todo lo cargado en la base de datos
+27.0.0.1:5500/productos.html Cannot GET /productos.html que significa
